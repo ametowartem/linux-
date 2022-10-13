@@ -1,5 +1,2 @@
-print(1)
-print(2)
-print(3)
-print(4)
-print(5)
+import numpy as np
+print(np.arange(1,5,1))
