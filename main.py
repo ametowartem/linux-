@@ -1,2 +1,7 @@
-import numpy as np
-print(np.arange(1,5,1))
+for i in range(10):
+    print(i)
+    print(i)
+    print(i)
+    print(i)
+    print(i)
+    print(i)
